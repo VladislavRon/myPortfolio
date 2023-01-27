@@ -618,6 +618,21 @@ html, body {
     .content-list__item {
         font-size: 16px;
     }
+    
+    /*forms*/
+
+    .form__input{
+
+        width: 300px;
+
+    }
+
+    .form__textarea{
+
+        width: 340px;
+        height: 120px;
+
+    }
 
     /* Footer */
 
