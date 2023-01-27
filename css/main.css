@@ -430,8 +430,8 @@ html, body {
 
 .form__textarea_client-offer::placeholder{
     text-align: center;
-    height: 148px;
-    line-height: 148px;
+    height: 128px;
+    line-height: 128px;
 }
 .form__input{
     margin: 15px 0 15px 0;
