@@ -639,6 +639,13 @@ html, body {
         height: 96px;
         line-height: 96px;
     }
+    
+    /* photo */
+
+    .contacts__faceID{
+        width: 300px;
+
+    }
 
     /* Footer */
 
