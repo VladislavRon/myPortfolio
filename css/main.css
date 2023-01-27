@@ -636,8 +636,8 @@ html, body {
     }
     .form__textarea_client-offer::placeholder{
 
-        height: 98px;
-        line-height: 98px;
+        height: 96px;
+        line-height: 96px;
     }
 
     /* Footer */
