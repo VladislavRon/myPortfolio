@@ -634,6 +634,11 @@ html, body {
         height: 120px;
 
     }
+    .form__textarea_client-offer::placeholder{
+
+        height: 98px;
+        line-height: 98px;
+    }
 
     /* Footer */
 
