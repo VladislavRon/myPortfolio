@@ -668,3 +668,10 @@ html, body {
     }
 
 }
+
+@media (max-width: 320px) {
+    .contacts__faceID{
+        width: 250px;
+
+    }
+}
